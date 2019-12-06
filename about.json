@@ -1,0 +1,22 @@
+{
+  "name": "graceful",
+  "about_url": "https://meta.discourse.org/t/a-graceful-theme-for-discourse/93040/1",
+  "license_url": "https://meta.discourse.org/t/a-graceful-theme-for-discourse/93040/1",
+  "assets": {
+    "default-background": "assets/sayagata-400px.png"
+  },
+  "color_schemes": {
+    "Graceful": {
+      "primary": "333",
+      "secondary": "ffffff",
+      "tertiary": "88af8e",
+      "quaternary": "88af8e",
+      "header_background": "ffffff",
+      "header_primary": "333333",
+      "highlight": "d4efd8",
+      "danger": "f8745c",
+      "success": "41e254",
+      "love": "fa6c8d"
+    }
+  }
+}
